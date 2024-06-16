@@ -1,8 +1,8 @@
-Libro de recetas..
+#Libro de recetas..
 
 Receta: Hambuerguesa
--Pan
--Torta
--Salsas
--Tocineta
--Queso
+- Pan
+- Torta
+- Salsas
+- Tocineta
+- Queso
